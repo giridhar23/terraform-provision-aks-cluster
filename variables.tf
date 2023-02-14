@@ -8,10 +8,10 @@ variable "password" {
 
 variable "rg_name" {
     description = "RG Name"
-    default = "1-af54950b-playground-sandbox"
+    default = "add rg name here"
 }
 
 variable "location" {
      description = "location"
-     default ="South Central US"
+     default ="add location here"
 }
